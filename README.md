@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction Pattern Using LSTM
+# 📈 Stock Price Pattern Prediction Using LSTM
 
 ## 📌 Introduction  
 Stock market prediction is a critical area of financial research, providing valuable insights for traders and investors. This project leverages **Long Short-Term Memory (LSTM) networks**, a type of Recurrent Neural Network (RNN), to predict stock price movements based on historical data.  
