@@ -1,0 +1,6 @@
+psx-data-reader
+scikit-learn
+tensorflow
+matplotlib
+numpy
+pandas
